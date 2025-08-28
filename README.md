@@ -11,3 +11,5 @@ La grille est de taille **fixe 5×5** et s’exécute en mode **console**.
 3. **Mort** : Toute autre cellule meurt ou reste morte.  
 
 👉 Les voisins sont les 8 cellules adjacentes (haut, bas, gauche, droite et diagonales).
+
+Pour executer le projet il faut juste faire un clic droit sur le fichier GameOfLife.java, puis cliquer sur "Run file"
